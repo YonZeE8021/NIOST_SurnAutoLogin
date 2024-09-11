@@ -1,0 +1,7 @@
+1.打开SurnAutoLoginYoz文件夹 —— Config.txt文件，按示例修改登录信息，保存关闭。
+
+2.把SurnAutoLoginYoz文件夹放入C:\中（即C盘根目录，确保文件路径为C:\SurnAutoLoginYoz）
+
+3.双击运行124.0.6367.61_chrome_installer.exe，安装124版本的Chrome浏览器
+
+(4)按下Win+R，输入shell:Common Startup，打开启动文件夹，把Srun_Autologin.exe放入即可实现开机自动运行
